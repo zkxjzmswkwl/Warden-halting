@@ -1,0 +1,9 @@
+# ninja log v5
+0	439	6740422538300806	CMakeFiles/warden.dir/Packet.cpp.obj	8461a9500faf5111
+0	1134	6740423010484426	CMakeFiles/warden.dir/main.cpp.obj	2e7091ccf2f4eef3
+1	998	6740423203049029	CMakeFiles/warden.dir/main.cpp.obj	2e7091ccf2f4eef3
+999	1373	6740423206749008	warden.exe	ae4087867a4ce926
+0	1082	6740424429202331	CMakeFiles/warden.dir/main.cpp.obj	2e7091ccf2f4eef3
+1082	1360	6740424431682346	warden.exe	ae4087867a4ce926
+1	1105	6740424701717149	CMakeFiles/warden.dir/main.cpp.obj	2e7091ccf2f4eef3
+1106	1332	6740424703737137	warden.exe	ae4087867a4ce926
